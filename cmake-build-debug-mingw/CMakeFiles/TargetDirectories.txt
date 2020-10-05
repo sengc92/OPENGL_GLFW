@@ -1,0 +1,3 @@
+C:/Users/sengc/CLionProjects/OPENGL_GLFW/cmake-build-debug-mingw/CMakeFiles/OPENGL_GLFW.dir
+C:/Users/sengc/CLionProjects/OPENGL_GLFW/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/sengc/CLionProjects/OPENGL_GLFW/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
